@@ -23,7 +23,6 @@ Je suis un développeur passionné avec un intérêt particulier pour le dévelo
 </p>
 
 ### 📊 Mes stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JasonLefebvre&show_icons=true&theme=radical" alt="Stats de JasonLefebvre" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonLefebvre&layout=compact&theme=radical" alt="Langages les plus utilisés"/>
