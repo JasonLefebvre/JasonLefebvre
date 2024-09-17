@@ -22,9 +22,29 @@ Je suis un développeur passionné avec un intérêt particulier pour le dévelo
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40"/>
 </p>
 
-### 📊 Mes statistiques GitHub
-![Mes Stats GitHub](https://github-readme-stats.vercel.app/api?username=JasonLefebvre&show_icons=true&theme=radical)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonLefebvre&layout=compact&theme=radical)
+### 📊 Mes stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JasonLefebvre&show_icons=true&theme=radical" alt="Stats de JasonLefebvre" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonLefebvre&layout=compact&theme=radical" alt="Langages les plus utilisés"/>
+</p>
+
+---
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JasonLefebvre&theme=radical" alt="JasonLefebvre Streak"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JasonLefebvre&theme=radical&no-frame=true&row=1&column=6" alt="Trophées de JasonLefebvre"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JasonLefebvre&theme=rogue" alt="Graphique d'activité de JasonLefebvre"/>
+</p>
 
 ### 🚀 Projets en vedette
 - **BSEsport** : Un projet passionnant dédié à l'esport.
