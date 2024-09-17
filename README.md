@@ -27,6 +27,4 @@ Je suis un développeur passionné avec un intérêt particulier pour le dévelo
 - **BSEsport** : Un projet passionnant dédié à l'esport.
 
 ### Connecte-toi avec moi
-- Mon portfolio arrive bientôt ! Stay tuned.
-
-![Funny GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+- Mon portfolio arrive bientôt !
