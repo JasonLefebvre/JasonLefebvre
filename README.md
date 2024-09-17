@@ -43,9 +43,7 @@ Je suis un développeur passionné avec un intérêt particulier pour le dévelo
 
 
 ### 🚀 Projets en vedette
-<hr style="border:1px solid gray; width:100%;" />
 - <b>BSEsport</b> : Un projet passionnant dédié à l'esport.
 
 ### Connecte-toi avec moi
-<hr style="border:1px solid gray; width:100%;" />
 - Mon portfolio arrive bientôt !
