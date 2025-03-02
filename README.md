@@ -5,7 +5,6 @@ Je suis un développeur passionné avec un intérêt particulier pour le dévelo
 ### À propos de moi
 - 🌱 J'apprends actuellement **Java, HTML, CSS, JS, Python, SQL** pour approfondir mes compétences.
 - 💬 N'hésite pas à me poser des questions sur **le développement web et logiciel**.
-- ⚡ Fun fact : Je suis un grand fan d'esport et j'aime mêler ma passion pour le développement à cet univers.
 
 ### Langages & Outils
 <p align="left">
@@ -21,17 +20,6 @@ Je suis un développeur passionné avec un intérêt particulier pour le dévelo
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JasonLefebvre&show_icons=true&theme=radical" alt="Stats de JasonLefebvre" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonLefebvre&layout=compact&theme=radical" alt="Langages les plus utilisés"/>
-</p>
-
----
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JasonLefebvre&theme=radical" alt="JasonLefebvre Streak"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JasonLefebvre&theme=radical&no-frame=true&row=1&column=6" alt="Trophées de JasonLefebvre"/>
 </p>
 
 ---
